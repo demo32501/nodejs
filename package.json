@@ -14,5 +14,8 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.7",
     "redis": "^2.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
